@@ -6,7 +6,7 @@ Created on Sat May 17 20:22:16 2014
 import os
 os.chdir(os.path.dirname(os.path.realpath(__file__)))
 
-# Split projects.csv into train.csv and submit.csv
+## Split projects.csv into train.csv and submit.csv
 import pandas as pd
 import numpy as np
 
