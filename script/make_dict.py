@@ -21,3 +21,4 @@ with open(filepath, 'rb') as f:
         dict_list.append({row[0]: row[1]})
         
 print "made " + str(len(dict_list)) + " objects!"
+
