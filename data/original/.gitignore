@@ -1,0 +1,6 @@
+# ignore everything in this directory 
+/*
+
+# except for the following files
+!.gitignore
+!sampleSubmission.csv
