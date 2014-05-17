@@ -9,3 +9,7 @@ tail -n1000 data/original/projects.csv >> data/small/projects_t1000.csv
 
 head -n1 data/original/outcomes.csv > data/small/outcomes_t1000.csv
 tail -n1000 data/original/outcomes.csv >> data/small/outcomes_t1000.csv
+
+
+echo "line counts"
+wc -l data/original/*
