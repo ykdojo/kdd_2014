@@ -1,1 +1,2 @@
-try split_train_test in ipython notebook
+- check correlations between the 5 variables
+- incorporate the character count and/or word count of essay
