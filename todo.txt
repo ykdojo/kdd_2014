@@ -1,2 +1,9 @@
-- check correlations between the 5 variables
+- integrate the two ipython notebooks
 - incorporate the character count and/or word count of essay
+
+
+
+
+
+
+- check correlations between the 5 variables
