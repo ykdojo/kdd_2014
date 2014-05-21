@@ -1,9 +1,9 @@
-- integrate the two ipython notebooks
 - incorporate the character count and/or word count of essay
 
+- fix the encoding problem (search "want to read" in essays.csv)
 
 
 
 
-
+- develop a local testing method
 - check correlations between the 5 variables
